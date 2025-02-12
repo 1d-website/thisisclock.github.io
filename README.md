@@ -20,7 +20,7 @@ To utilize Clock-V2, please follow these instructions:
 
 Upon opening, the clock interface will be readily available for use.
 
-If you encounter any difficulties in viewing the clock locally, a mobile-friendly version is also available at [this website](thisisclock.github.io).
+If you encounter any difficulties in viewing the clock locally, a mobile-friendly version is also available at thisisclock.github.io.
 
 ## Contributions and Maintenance
 
